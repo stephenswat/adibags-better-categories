@@ -2,7 +2,7 @@ local _, data = ...
 
 local adi = LibStub('AceAddon-3.0'):GetAddon('AdiBags')
 
-local filter = adi:RegisterFilter('BetterCategories', 5, 'ABEvent-1.0')
+local filter = adi:RegisterFilter('BetterCategories', 25, 'ABEvent-1.0')
 
 filter.uiName = 'Better Item Categories'
 filter.uiDesc = 'Sets more granular categories (from WowHead) for items.'
