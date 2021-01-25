@@ -91,4 +91,13 @@ data.overrides = {
     [10286] = {class =   7, subclass =  93},
     [12803] = {class =   7, subclass =  93},
     [12808] = {class =   7, subclass =  93},
+
+    -- These are the Winterspring juju consumables
+    [12450] = {class =   0, subclass = nil},
+    [12451] = {class =   0, subclass = nil},
+    [12455] = {class =   0, subclass = nil},
+    [12457] = {class =   0, subclass = nil},
+    [12458] = {class =   0, subclass = nil},
+    [12459] = {class =   0, subclass = nil},
+    [12460] = {class =   0, subclass = nil},
 }
