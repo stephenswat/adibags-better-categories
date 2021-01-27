@@ -15,6 +15,12 @@ data.classes = {
             [ 7] = "Bandages",
         },
     },
+    [5] = {
+        name = "Reagent",
+        subclasses = {
+            [ 0] = "Reagent",
+        },
+    },
     [7] = {
         name = "Trade Goods",
         subclasses = {
