@@ -100,4 +100,7 @@ data.overrides = {
     [12458] = {class =   0, subclass = nil},
     [12459] = {class =   0, subclass = nil},
     [12460] = {class =   0, subclass = nil},
+
+    -- Light feathers are a reagent, not junk
+    [17056] = {class =   5, subclass =   0},
 }
